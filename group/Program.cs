@@ -7,7 +7,8 @@ namespace group
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World from Riya!");
-            Console.WriteLine("Hello World fro Himanshu!");
+            Console.WriteLine("Hello World from Himanshu!");
+            Console.WriteLine("Hi this is Himanshu Again!");
         }
     }
 }
